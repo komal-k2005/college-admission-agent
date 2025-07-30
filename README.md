@@ -25,22 +25,6 @@ This is an AI-powered virtual assistant built using **IBM Watsonx**, **Granite L
 
 ---
 
-## 📂 Folder Structure
-
-college-admission-agent/
-├── backend_service/
-│ └── granite_agent.py
-├── watson_assistant/
-│ └── watsonx_agent_export.json
-├── screenshots/
-│ └── agent_preview.png
-│ └── college admission agent.png
-├── deployment_details.md
-├── LICENSE
-├── README.md
-
-
----
 
 ## 🖼️ Screenshot
 
