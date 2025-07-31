@@ -319,7 +319,7 @@ Start every conversation with:
                             "id": tool_result.id,
                             "tool_call_id": tool_result.tool_call_id,
                             "name": tool_result.name,
-                            "content": tool_result.content
+                           "content": tool_result.content
                         }
                 else:
                     continue
